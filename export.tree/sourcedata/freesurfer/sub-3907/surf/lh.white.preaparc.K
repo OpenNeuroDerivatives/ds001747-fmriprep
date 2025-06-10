@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/GK/FX/MD5E-s557879--6f06fd6a6c5e8ce808d2f1fe975e05d6.K/MD5E-s557879--6f06fd6a6c5e8ce808d2f1fe975e05d6.K
